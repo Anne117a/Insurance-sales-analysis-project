@@ -16,7 +16,7 @@ You can view and interact with the full, live dashboard here:
 
 **[https://public.tableau.com/app/profile/annamaria.benakova/viz/InsuranceSalesAnalysis_17628361290880/InsuranceSalesAnalysis](https://public.tableau.com/app/profile/annamaria.benakova/viz/InsuranceSalesAnalysis_17628361290880/InsuranceSalesAnalysis)**
 
-![Screenshot of Tableau Dashboard](YOUR-SCREENSHOT-LINK-HERE) 
+![Screenshot of Tableau Dashboard]([YOUR-SCREENSHOT-LINK-HERE](https://github.com/user-attachments/assets/fd8e5267-bdf0-40a9-99c1-9dc4858dcef6")) 
 *(I'll show you how to add this screenshot in a moment)*
 
 ### Key Insights from the Dashboard:
