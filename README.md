@@ -31,7 +31,7 @@ Machine learning model was built to predict the likelihood of a customer filing 
 
 * **Business Problem:** Help the business identify high-risk customers to manage risk and resources.
 * **Model:** I used a **Random Forest Classifier** to predict if a customer would 'File a Claim' (Yes/No) based on their region, vehicle type, credit score, and vehicle age.
-* **Result:** The model achieved **XX.X% Accuracy** *(Check your classification report for this number!)* in predicting claims.
+* **Result:** The model achieved **81.99%** in predicting claims. However, the model struggled with the imbalanced dataset, which gave a low recall of 22% for the "Filed Claim" class. This means that while the model is good at identifying "No Claim" customers, but to improve it would be to better identify the more rare "Filed Claim" customers.
 
 ---
 
